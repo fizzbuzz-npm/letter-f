@@ -2,6 +2,8 @@
   "name": "letter-f",
   "version": "1.0.0",
   "description": "The lowercase letter \"f\"",
+  "homepage": "https://github.com/fizzbuzz-npm/letter-f",
+  "repository": "github:fizzbuzz-npm/letter-f",
   "main": "index.js",
   "scripts": {
     "lint": "eslint index.js",
